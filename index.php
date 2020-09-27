@@ -14,7 +14,7 @@
 
 <body>
 <?php
-echo "This is the main website";
+echo "This is the website for developer.";
 ?>
 </body>
 </html>  
